@@ -1,10 +1,13 @@
 {
-    "name": "magnet_project",
+    "name": "MagicMagnet",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Twinkle Night Light": "github:grandparon/twinkle-night-light#master",
+        "Dice-Project": "github:grandparon/dice-project#master",
+        "Cardinal_compass": "github:grandparon/shake_buttona_buttonb#master"
     },
     "files": [
         "main.blocks",
